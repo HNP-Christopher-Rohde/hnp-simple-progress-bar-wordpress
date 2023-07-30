@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HNP - Simple Progress Bar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-29 17:18+0000\n"
+"PO-Revision-Date: 2023-07-29 17:28+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: hnp-spb-textdomain"
+
+#: inc/options-page-wrapper.php:84
+msgid ".example-class{color: #000;}"
+msgstr ""
+
+#: inc/options-page-wrapper.php:60
+msgid "0.7"
+msgstr ""
+
+#: hnp-simple-progress-bar.php:138
+msgid "Activated"
+msgstr "Aktiviert"
+
+#: inc/options-page-wrapper.php:93
+msgid "Area"
+msgstr "Bereich"
+
+#. Author of the plugin
+msgid "Christopher Rohde"
+msgstr ""
+
+#: inc/options-page-wrapper.php:51
+msgid "Color. Default value = #e82c67."
+msgstr "Farbe. Standardwert = #e82c67."
+
+#: inc/options-page-wrapper.php:51
+msgid "Color:"
+msgstr "Farbe:"
+
+#: inc/options-page-wrapper.php:94
+msgid "CSS-Class"
+msgstr "Css-Klasse"
+
+#: inc/options-page-wrapper.php:83
+msgid "Custom Style CSS:"
+msgstr ""
+
+#: inc/options-page-wrapper.php:81
+msgid "Custom Style:"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Display a customizable and lightweight frontend progress bar to indicate "
+"loading progress on your website."
+msgstr ""
+"Zeigen Sie eine anpassbare und leichte Fortschrittsleiste im Frontend an, um "
+"den Ladevorgang auf Ihrer Website anzuzeigen."
+
+#: inc/options-page-wrapper.php:72
+msgid ""
+"Do you have any questions? Do you need a custom plugin or custom function "
+"for WordPress / WooCommerce? Send us an email:"
+msgstr ""
+"Haben Sie irgendwelche Fragen? Benötigen Sie ein benutzerdefiniertes Plugin "
+"oder eine benutzerdefinierte Funktion für WordPress / WooCommerce? Senden "
+"Sie uns eine Email:"
+
+#: inc/options-page-wrapper.php:42
+msgid "Enable the Function?"
+msgstr "Funktion einschalten?"
+
+#: inc/options-page-wrapper.php:42
+msgid "Enable the functionality of the Plugin."
+msgstr "Schaltet die Hauptfunktion ein."
+
+#: inc/options-page-wrapper.php:83
+msgid "Enter your custom CSS code here."
+msgstr "Schreibe Deinen custom CSS Code hier rein."
+
+#: hnp-simple-progress-bar.php:151
+#, php-format
+msgid "Function: <span style=\"color: %s;\">%s</span></div>"
+msgstr "Funktion: <span style=\"color: %s;\">%s</span></div>"
+
+#: inc/options-page-wrapper.php:102
+msgid "HNP - Programming made with love in Germany."
+msgstr "HNP - Programmierungen mit Liebe gemacht in Deutschland."
+
+#. Name of the plugin
+#: hnp-simple-progress-bar.php:33 hnp-simple-progress-bar.php:34
+msgid "HNP - Simple Progress Bar"
+msgstr ""
+
+#: inc/options-page-wrapper.php:8
+msgid "HNP Simple Progress Bar"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://homepage-nach-preis.de/"
+msgstr ""
+
+#: hnp-simple-progress-bar.php:110 hnp-simple-progress-bar.php:113
+msgid "Licence Activated"
+msgstr "Lizenz aktiviert"
+
+#: inc/options-page-wrapper.php:78
+msgid "Licence Code"
+msgstr "Lizenzcode"
+
+#: inc/options-page-wrapper.php:77
+msgid "Licence Key:"
+msgstr "Lizenzcode:"
+
+#: hnp-simple-progress-bar.php:119
+msgid "Licence Not activated"
+msgstr "Lizenz nicht aktitviert"
+
+#: inc/options-page-wrapper.php:97
+msgid "Main-Container"
+msgstr "Haupt-Container"
+
+#: hnp-simple-progress-bar.php:141 hnp-simple-progress-bar.php:145
+msgid "Not Activated"
+msgstr "Nicht aktiviert"
+
+#: inc/options-page-wrapper.php:57
+msgid "Opacity:"
+msgstr "Transparenz:"
+
+#: inc/options-page-wrapper.php:47
+msgid "Options:"
+msgstr "Einstellungen:"
+
+#: inc/options-page-wrapper.php:22
+msgid "Other"
+msgstr "Anderes"
+
+#: inc/options-page-wrapper.php:18
+msgid "Plugin"
+msgstr ""
+
+#: inc/options-page-wrapper.php:90
+msgid "Plugin Style:"
+msgstr ""
+
+#: hnp-simple-progress-bar.php:65 hnp-simple-progress-bar.php:81
+msgid "Saved"
+msgstr "Gespeichert"
+
+#: hnp-simple-progress-bar.php:44
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: inc/options-page-wrapper.php:58
+msgid ""
+"The Opacity of the Progress Bar Color. 1 = 100% Opacity. 0.1 = 10% Opacity. "
+"Default Value = 0.7"
+msgstr ""
+"Die Transparenz des Fortschrittbalkens. 1 = 100% Opacity. 0.1 = 10% Opacity. "
+"Standardwert = 0.7"
+
+#: inc/options-page-wrapper.php:64 inc/options-page-wrapper.php:88
+msgid "Update/Save"
+msgstr "Speichern"
+
+#: hnp-simple-progress-bar.php:53
+msgid "You do not have enough permission to view this page"
+msgstr ""
+
+#: inc/options-page-wrapper.php:77
+msgid "Your Licence Key."
+msgstr "Dein Lizenz Code."
